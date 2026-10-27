@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+langdetect
+argostranslate
+
+pytesseract
+pdf2image
+
+python-docx
+
+reportlab
